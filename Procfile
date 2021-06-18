@@ -1,1 +1,1 @@
-web: python spell-correction-streamlit.py
+web: streamlit run spell-correction-streamlit.py
